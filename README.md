@@ -1,9 +1,6 @@
 TO-DO APP-
 
-*Develop By Md. Rakibul Islam
-
 Using Technology-
-    
     1. HTML
     2. CSS
     3. JQuary
@@ -12,8 +9,8 @@ Using Technology-
 
 
 Screenshot of the project:
-    
-    1. ![Alt text](img/1.png)
+    Home Page after load the project: 
+[    1. ![Alt text](img/1.png)](https://github.com/rakib-utsho/To-Do-list-PHP/blob/1c0b307d124ecc7cbe2ebc402e7698a3800455f2/img/1.png)
 
     2. ![Alt text](img/2.png)
 
