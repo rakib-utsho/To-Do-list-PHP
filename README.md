@@ -1,7 +1,7 @@
 **TO-DO APP**
 A To-Do App project implemented using HTML and CSS for the frontend, with PHP for the backend and MySQL as the database. It allows users to add new tasks to the list and remove them when completed.
  
-**Using Technology-** \n
+**Using Technology-**
 Frontend -  HTML
            2. CSS
            3. JQuery (Use for some functionality!)
